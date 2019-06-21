@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-06-21 12:53-0300\n"
+"PO-Revision-Date: 2019-06-21 19:53-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -540,7 +540,7 @@ msgstr "Memória usada:"
 
 msgctxt "#31322"
 msgid "Aired"
-msgstr "Exibido"
+msgstr "Lançado"
 
 msgctxt "#31351"
 msgid "Pause"
@@ -734,31 +734,31 @@ msgstr "Widgets Adicionais"
 #: /shortcuts/overrides.xml
 msgctxt "#31422"
 msgid "Recently Added Movies"
-msgstr "Adicionados Recentemente"
+msgstr "Filmes Adicionados Recentemente"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31423"
 msgid "Recently Played Movies"
-msgstr "Reproduzidos Recentemente"
+msgstr "Filmes Reproduzidos Recentemente"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31424"
 msgid "Random Movies"
-msgstr "Aleatórios"
+msgstr "Filmes Aleatórios"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31425"
 msgid "In Progress Movies"
-msgstr "Em Progresso"
+msgstr "Filmes Em Progresso"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31426"
 msgid "Unwatched Movies"
-msgstr "Não Assistidos"
+msgstr "Filmes Não Assistidos"
 
 msgctxt "#31427"
 msgid "Top Rated Movies"
-msgstr "Melhores Avaliados"
+msgstr "Filmes Mais Bem Avaliados"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31428"
@@ -1065,10 +1065,9 @@ msgid "Favourite Addons"
 msgstr "Add-ons Favoritos"
 
 #: script-skinshortcuts.xml
-#, fuzzy
 msgctxt "#31488"
 msgid "Next Aired Episodes"
-msgstr "Próximos Episódios em Exibição"
+msgstr "Episódios Não Lançados"
 
 msgctxt "#31499"
 msgid "All TV Shows"
