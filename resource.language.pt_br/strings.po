@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-06-21 19:53-0300\n"
+"PO-Revision-Date: 2019-07-05 17:43-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -196,9 +196,10 @@ msgid "Repository"
 msgstr "Repositório"
 
 # empty strings from id 31042 to 31045
+#, fuzzy
 msgctxt "#31046"
-msgid "Show Double Row Shelves"
-msgstr "Aumentar Tamanho do Espaço dos Widgets"
+msgid "Show Double Row Shelf"
+msgstr "Aumentar Espaço (Mostrar em Duas Linhas)"
 
 msgctxt "#31047"
 msgid "Select your Kodi user profile to login and continue"
@@ -722,13 +723,19 @@ msgid "Game Sources"
 msgstr "Fonte dos Jogos"
 
 #: /shortcuts/overrides.xml
+#, fuzzy
+#| msgctxt "#31420"
+#| msgid "Default Widgets"
 msgctxt "#31420"
-msgid "Default Widgets"
+msgid "Default Shelves"
 msgstr "Widgets Padrões"
 
 #: /shortcuts/overrides.xml
+#, fuzzy
+#| msgctxt "#31421"
+#| msgid "Additional Widgets"
 msgctxt "#31421"
-msgid "Additional Widgets"
+msgid "Additional Shelves"
 msgstr "Widgets Adicionais"
 
 #: /shortcuts/overrides.xml
@@ -1036,27 +1043,37 @@ msgstr "Ordem de Classificação"
 
 #: script-skinshortcuts.xml
 msgctxt "#31482"
-msgid "Widget Limit"
-msgstr "Quantidade de Itens no Widget"
+msgid "Shelf Limit"
+msgstr "Número de itens"
 
 #: script-skinshortcuts.xml
+#, fuzzy
 msgctxt "#31483"
-msgid "Hide when not Focused"
-msgstr "Ocultar quando não selecionado"
+msgid "Hide Shelves when not Focused"
+msgstr "Ocultar widgets quando não selecionado"
 
 #: script-skinshortcuts.xml
+#, fuzzy
+#| msgctxt "#31484"
+#| msgid "Disable Widget Fanart"
 msgctxt "#31484"
-msgid "Disable Widget Fanart"
+msgid "Disable Shelves Fanart"
 msgstr "Desativar Fanart do Widget"
 
 #: script-skinshortcuts.xml
+#, fuzzy
+#| msgctxt "#31485"
+#| msgid "Enable PVR TV Recording Widget"
 msgctxt "#31485"
-msgid "Enable PVR TV Recording Widget"
+msgid "Enable PVR TV Recording Shelf"
 msgstr "Habilitar Widget de Gravações PVR TV"
 
 #: script-skinshortcuts.xml
+#, fuzzy
+#| msgctxt "#31486"
+#| msgid "Enable PVR Radio Recording Widget"
 msgctxt "#31486"
-msgid "Enable PVR Radio Recording Widget"
+msgid "Enable PVR Radio Recording Shelf"
 msgstr "Habilitar Widget de Gravações PVR Rádio"
 
 #: script-skinshortcuts.xml
@@ -1068,6 +1085,25 @@ msgstr "Add-ons Favoritos"
 msgctxt "#31488"
 msgid "Next Aired Episodes"
 msgstr "Episódios Não Lançados"
+
+#: script-skinshortcuts.xml
+#, fuzzy
+#| msgctxt "#32042"
+#| msgid "Next Episodes"
+msgctxt "#31489"
+msgid "Next Episodes"
+msgstr "Próximos Episódios"
+
+#: script-skinshortcuts.xml
+#, fuzzy
+msgctxt "#31490"
+msgid "Episodes Airing Today"
+msgstr "Episódios em exibição hoje"
+
+#: script-skinshortcuts.xml
+msgctxt "#31491"
+msgid "Shelf"
+msgstr "Widget"
 
 msgctxt "#31499"
 msgid "All TV Shows"
@@ -1137,50 +1173,6 @@ msgstr "Previsão 10 Dias"
 msgctxt "#31920"
 msgid "Disable all Home shelves"
 msgstr "Desativar Todos os Widgets"
-
-msgctxt "#31921"
-msgid "Hide Movies shelf"
-msgstr "Ocultar Widgets dos Filmes"
-
-msgctxt "#31922"
-msgid "Hide TV Show shelf"
-msgstr "Ocultar Widgets dos Seriados"
-
-msgctxt "#31923"
-msgid "Hide Music Shelf"
-msgstr "Ocultar Widgets das Músicas"
-
-msgctxt "#31924"
-msgid "Hide Music Videos Shelf"
-msgstr "Ocultar Widgets de Videoclipes"
-
-msgctxt "#31925"
-msgid "Hide Addons Shelf"
-msgstr "Ocultar Widgets dos Add-ons"
-
-msgctxt "#31926"
-msgid "Hide Favourites Shelf"
-msgstr "Ocultar Widgets dos Favoritos"
-
-msgctxt "#31927"
-msgid "Hide Weather Info Shelf"
-msgstr "Ocultar Widgets da Previsão do Tempo"
-
-msgctxt "#31928"
-msgid "Hide Videos Shelf"
-msgstr "Ocultar Widgets dos Vídeos"
-
-msgctxt "#31929"
-msgid "Hide TV Shelf"
-msgstr "Ocultar Widgets da TV"
-
-msgctxt "#31930"
-msgid "Hide Radio Shelf"
-msgstr "Ocultar Widgets do Rádio"
-
-msgctxt "#31931"
-msgid "Hide Pictures Shelf"
-msgstr "Ocultar Widgets das Imagens"
 
 # empty strings from id 31932 to 31935
 msgctxt "#31936"
@@ -1445,10 +1437,6 @@ msgctxt "#32000"
 msgid "Hide icons"
 msgstr "Ocultar Ícones"
 
-msgctxt "#32001"
-msgid "Hide Games Shelf"
-msgstr "Ocultar Widgets dos Jogos"
-
 msgctxt "#32002"
 msgid "Hide Games"
 msgstr "Ocultar Jogos"
@@ -1489,11 +1477,6 @@ msgstr "Último Episódio"
 msgctxt "#32011"
 msgid "Airs"
 msgstr "Em Exibição"
-
-#, fuzzy
-msgctxt "#32012"
-msgid "Hide Next Airing Episodes"
-msgstr "Ocultar Próximos Episódios em Exibição"
 
 #, fuzzy
 msgctxt "#32013"
@@ -1613,10 +1596,6 @@ msgctxt "#32040"
 msgid "Enable Kiosk Mode"
 msgstr "Habilitar Modo Kiosk"
 
-msgctxt "#32041"
-msgid "Hide Next Episodes"
-msgstr "Ocultar Próximos Episódios"
-
 msgctxt "#32042"
 msgid "Next Episodes"
 msgstr "Próximos Episódios"
@@ -1663,7 +1642,7 @@ msgstr "Mostrar Vídeo Info Quando Pausado"
 
 msgctxt "#32053"
 msgid "Show Two Shelves Together"
-msgstr "Mostrar 2 Tipos de Widgets Ao Mesmo Tempo"
+msgstr "Mostrar 2 Widgets Ao Mesmo Tempo (limitado a 2)"
 
 msgctxt "#32054"
 msgid "Use Larger Font for Vertical Menu"
@@ -1725,3 +1704,68 @@ msgstr "Selecionar Pasta do Backup"
 msgctxt "#32068"
 msgid "Show Fanart"
 msgstr "Mostrar Fanart"
+
+msgctxt "#32069"
+msgid "Files"
+msgstr "Arquivos"
+
+#~ msgctxt "#31482"
+#~ msgid "Widget Limit"
+#~ msgstr "Quantidade de Itens no Widget"
+
+#~ msgctxt "#31921"
+#~ msgid "Hide Movies shelf"
+#~ msgstr "Ocultar Widgets dos Filmes"
+
+#~ msgctxt "#31922"
+#~ msgid "Hide TV Show shelf"
+#~ msgstr "Ocultar Widgets dos Seriados"
+
+#~ msgctxt "#31923"
+#~ msgid "Hide Music Shelf"
+#~ msgstr "Ocultar Widgets das Músicas"
+
+#~ msgctxt "#31924"
+#~ msgid "Hide Music Videos Shelf"
+#~ msgstr "Ocultar Widgets de Videoclipes"
+
+#~ msgctxt "#31925"
+#~ msgid "Hide Addons Shelf"
+#~ msgstr "Ocultar Widgets dos Add-ons"
+
+#~ msgctxt "#31926"
+#~ msgid "Hide Favourites Shelf"
+#~ msgstr "Ocultar Widgets dos Favoritos"
+
+#~ msgctxt "#31927"
+#~ msgid "Hide Weather Info Shelf"
+#~ msgstr "Ocultar Widgets da Previsão do Tempo"
+
+#~ msgctxt "#31928"
+#~ msgid "Hide Videos Shelf"
+#~ msgstr "Ocultar Widgets dos Vídeos"
+
+#~ msgctxt "#31929"
+#~ msgid "Hide TV Shelf"
+#~ msgstr "Ocultar Widgets da TV"
+
+#~ msgctxt "#31930"
+#~ msgid "Hide Radio Shelf"
+#~ msgstr "Ocultar Widgets do Rádio"
+
+#~ msgctxt "#31931"
+#~ msgid "Hide Pictures Shelf"
+#~ msgstr "Ocultar Widgets das Imagens"
+
+#~ msgctxt "#32001"
+#~ msgid "Hide Games Shelf"
+#~ msgstr "Ocultar Widgets dos Jogos"
+
+#, fuzzy
+#~ msgctxt "#32012"
+#~ msgid "Hide Next Airing Episodes"
+#~ msgstr "Ocultar Próximos Episódios em Exibição"
+
+#~ msgctxt "#32041"
+#~ msgid "Hide Next Episodes"
+#~ msgstr "Ocultar Próximos Episódios"
