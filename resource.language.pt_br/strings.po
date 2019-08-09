@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-08 22:05-0300\n"
+"PO-Revision-Date: 2019-08-08 22:06-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -1190,7 +1190,7 @@ msgstr "Próximos Lançamentos nos Cinema"
 #, fuzzy
 msgctxt "#31521"
 msgid "In-Theater Movies"
-msgstr "Filmes em Exibição nos Cinema"
+msgstr "Filmes em Exibição nos Cinemas"
 
 #, fuzzy
 msgctxt "#31522"
