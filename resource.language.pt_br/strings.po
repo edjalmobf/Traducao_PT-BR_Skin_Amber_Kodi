@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-08 21:58-0300\n"
+"PO-Revision-Date: 2019-08-08 22:05-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -1073,9 +1073,10 @@ msgid "Recommended Episodes"
 msgstr "Episódios Recomendados"
 
 #: /shortcuts/overrides.xml
+#, fuzzy
 msgctxt "#31493"
 msgid "Unwatched TV Shows"
-msgstr "Seriados Não Vistos"
+msgstr "Seriados Não Assistidos"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31494"
@@ -1086,7 +1087,7 @@ msgstr "Músicas Lançadas Recentemente"
 #, fuzzy
 msgctxt "#31495"
 msgid "Embuary Helper Shelves"
-msgstr "Widgets Embuary Helper"
+msgstr "Embuary Helper Widgets"
 
 #: /shortcuts/overrides.xml
 #, fuzzy
@@ -1103,7 +1104,7 @@ msgstr "Sugestões de filmes de"
 #, fuzzy
 msgctxt "#31498"
 msgid "Themoviedb Helper Shelves"
-msgstr "Widgets TheMovieDb"
+msgstr "TheMovieDb Widgets"
 
 msgctxt "#31499"
 msgid "All TV Shows"
@@ -1189,7 +1190,7 @@ msgstr "Próximos Lançamentos nos Cinema"
 #, fuzzy
 msgctxt "#31521"
 msgid "In-Theater Movies"
-msgstr "Filmes no Cinema"
+msgstr "Filmes em Exibição nos Cinema"
 
 #, fuzzy
 msgctxt "#31522"
