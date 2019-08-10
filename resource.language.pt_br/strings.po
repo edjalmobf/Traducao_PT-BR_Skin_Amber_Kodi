@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-08 22:06-0300\n"
+"PO-Revision-Date: 2019-08-09 21:14-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -1073,10 +1073,9 @@ msgid "Recommended Episodes"
 msgstr "Episódios Recomendados"
 
 #: /shortcuts/overrides.xml
-#, fuzzy
 msgctxt "#31493"
 msgid "Unwatched TV Shows"
-msgstr "Seriados Não Assistidos"
+msgstr "Seriados Não Vistos"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31494"
@@ -1087,7 +1086,7 @@ msgstr "Músicas Lançadas Recentemente"
 #, fuzzy
 msgctxt "#31495"
 msgid "Embuary Helper Shelves"
-msgstr "Embuary Helper Widgets"
+msgstr "Widgets Embuary Helper"
 
 #: /shortcuts/overrides.xml
 #, fuzzy
@@ -1096,15 +1095,18 @@ msgid "Similar Movies based on Watched"
 msgstr "Filmes Similares aos Assistidos"
 
 #: /shortcuts/overrides.xml
+#, fuzzy
+#| msgctxt "#31497"
+#| msgid "Movie Suggestions by Genre"
 msgctxt "#31497"
-msgid "Movie Suggestions by Genre"
+msgid "Movie Suggestions by Genre:"
 msgstr "Sugestões de filmes de"
 
 #: /shortcuts/overrides.xml
 #, fuzzy
 msgctxt "#31498"
 msgid "Themoviedb Helper Shelves"
-msgstr "TheMovieDb Widgets"
+msgstr "Widgets TheMovieDb"
 
 msgctxt "#31499"
 msgid "All TV Shows"
@@ -1169,15 +1171,17 @@ msgctxt "#31516"
 msgid "Similar TV Shows based on Watched"
 msgstr "Seriados Similares aos Assistidos"
 
+#, fuzzy
 msgctxt "#31517"
-msgid "TV Shows Suggestions by Genre"
-msgstr "Seriados aleatórios de "
+msgid "TV Shows Suggestions by Genre:"
+msgstr "Sugestões de Seriados de"
 
 #, fuzzy
 msgctxt "#31518"
 msgid "Popular Movies"
 msgstr "Filmes Populares"
 
+#, fuzzy
 msgctxt "#31519"
 msgid "TMDb Top Rated Movies"
 msgstr "Filmes Mais Bem Avaliados do TMDb"
@@ -1185,12 +1189,12 @@ msgstr "Filmes Mais Bem Avaliados do TMDb"
 #, fuzzy
 msgctxt "#31520"
 msgid "Upcoming Movies"
-msgstr "Próximos Lançamentos nos Cinema"
+msgstr "Futuros Lançamentos"
 
 #, fuzzy
 msgctxt "#31521"
 msgid "In-Theater Movies"
-msgstr "Filmes em Exibição nos Cinemas"
+msgstr "Filmes no Cinema"
 
 #, fuzzy
 msgctxt "#31522"
@@ -1200,7 +1204,7 @@ msgstr "Seriados Populares"
 #, fuzzy
 msgctxt "#31523"
 msgid "TMDb Top Rated TV Shows"
-msgstr "Seriados Melhores Avaliados do TMDb"
+msgstr "Seriados Mais Bem Avaliados do TMDb"
 
 #, fuzzy
 msgctxt "#31524"
