@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-09 21:19-0300\n"
+"PO-Revision-Date: 2019-08-21 11:28-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -205,7 +205,7 @@ msgstr "Predefinições de visualização"
 
 msgctxt "#31049"
 msgid "Settings Level"
-msgstr "Nível dos Ajustes: "
+msgstr "Nível dos Ajustes"
 
 msgctxt "#31050"
 msgid "Sort: Ascending"
@@ -622,9 +622,9 @@ msgid ""
 "create it again, either restore the menu item[CR]Or use the custom action "
 "start_search for your desired menu item."
 msgstr ""
-"Você tem certeza que deseja remover o menu de pesquisa?\n"
-" Se você deseja cria-lo novamente, restaure o item do menu\n"
-" ou use o custom action start_search para seu item do menu desejado. "
+"Você tem certeza que deseja remover o menu de pesquisa?[CR] Se você deseja "
+"cria-lo novamente, restaure o item do menu[CR] ou use o custom action "
+"start_search para seu item do menu desejado."
 
 msgctxt "#31399"
 msgid "Random Movie fanart"
@@ -692,7 +692,7 @@ msgstr "Add-ons de Vídeos e Músicas"
 
 msgctxt "#31415"
 msgid "Memory usage"
-msgstr "Memória usada: "
+msgstr "Memória usada"
 
 msgctxt "#31416"
 msgid "CPU usage"
@@ -940,7 +940,7 @@ msgstr "Álbuns Mais Tocados"
 #: /shortcuts/overrides.xml
 msgctxt "#31466"
 msgid "Recently Added Artists"
-msgstr "Álbuns Adicionados Recentemente"
+msgstr "Artistas Adicionados Recentemente"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31467"
@@ -995,7 +995,7 @@ msgstr "Previsão do Tempo por Hora"
 #: Includes_Shelf_Contents.xml
 msgctxt "#31477"
 msgid "Memory Used"
-msgstr "Memória usada: "
+msgstr "Memória usada"
 
 #: Includes_Shelf_Contents.xml
 msgctxt "#31478"
@@ -1073,7 +1073,6 @@ msgid "Recommended Episodes"
 msgstr "Episódios Recomendados"
 
 #: /shortcuts/overrides.xml
-#, fuzzy
 msgctxt "#31493"
 msgid "Unwatched TV Shows"
 msgstr "Seriados Não Assistidos"
@@ -1084,27 +1083,21 @@ msgid "Recently Released Albums"
 msgstr "Músicas Lançadas Recentemente"
 
 #: /shortcuts/overrides.xml
-#, fuzzy
 msgctxt "#31495"
 msgid "Embuary Helper Shelves"
 msgstr "Widgets Embuary Helper"
 
 #: /shortcuts/overrides.xml
-#, fuzzy
 msgctxt "#31496"
 msgid "Similar Movies based on Watched"
 msgstr "Filmes Similares aos Assistidos"
 
 #: /shortcuts/overrides.xml
-#, fuzzy
-#| msgctxt "#31497"
-#| msgid "Movie Suggestions by Genre"
 msgctxt "#31497"
 msgid "Movie Suggestions by Genre:"
 msgstr "Sugestões de filmes de"
 
 #: /shortcuts/overrides.xml
-#, fuzzy
 msgctxt "#31498"
 msgid "Themoviedb Helper Shelves"
 msgstr "Widgets TheMovieDb"
@@ -1162,57 +1155,46 @@ msgctxt "#31514"
 msgid "Episodes use poster"
 msgstr "Usar pôster no episódio"
 
-#, fuzzy
 msgctxt "#31515"
 msgid "Recently Updated TV Shows"
 msgstr "Seriados Atualizados Recentemente"
 
-#, fuzzy
 msgctxt "#31516"
 msgid "Similar TV Shows based on Watched"
 msgstr "Seriados Similares aos Assistidos"
 
-#, fuzzy
 msgctxt "#31517"
 msgid "TV Shows Suggestions by Genre:"
 msgstr "Sugestões de Seriados de"
 
-#, fuzzy
 msgctxt "#31518"
 msgid "Popular Movies"
 msgstr "Filmes Populares"
 
-#, fuzzy
 msgctxt "#31519"
 msgid "TMDb Top Rated Movies"
 msgstr "Filmes Mais Bem Avaliados do TMDb"
 
-#, fuzzy
 msgctxt "#31520"
 msgid "Upcoming Movies"
 msgstr "Futuros Lançamentos"
 
-#, fuzzy
 msgctxt "#31521"
 msgid "In-Theater Movies"
 msgstr "Filmes em Exibição nos Cinemas"
 
-#, fuzzy
 msgctxt "#31522"
 msgid "Popular TV Shows"
 msgstr "Seriados Populares"
 
-#, fuzzy
 msgctxt "#31523"
 msgid "TMDb Top Rated TV Shows"
 msgstr "Seriados Mais Bem Avaliados do TMDb"
 
-#, fuzzy
 msgctxt "#31524"
 msgid "Airing Today TV Shows"
 msgstr "Seriados em Exibição Hoje"
 
-#, fuzzy
 msgctxt "#31525"
 msgid "Currently Airing TV Shows"
 msgstr "Seriados em Exibição"
@@ -1766,20 +1748,56 @@ msgctxt "#32069"
 msgid "Files"
 msgstr "Arquivos"
 
-#, fuzzy
 msgctxt "#32070"
 msgid "Place Background Name in Top Bar"
 msgstr "Colocar nome da imagem de fundo na barra superior"
 
-#, fuzzy
 msgctxt "#32071"
 msgid "Enable Alphabet Strip"
 msgstr "Habilitar Rolagem Alfabética (A-Z)"
 
-#, fuzzy
 msgctxt "#32072"
 msgid "Enable Autocompletion for Virtual Keyboard"
 msgstr "Habilitar Sugestões no Teclado Virtual"
+
+#, fuzzy
+msgctxt "#32073"
+msgid "Budget"
+msgstr "Orçamento"
+
+#, fuzzy
+msgctxt "#32074"
+msgid "Revenue"
+msgstr "Bilheteria"
+
+msgctxt "#32075"
+msgid "Awards"
+msgstr "Prêmios"
+
+#, fuzzy
+msgctxt "#32076"
+msgid "Show Watched Items in Recent Shelves"
+msgstr "Mostrar Assistidos nos Widgets Recentes"
+
+msgctxt "#32077"
+msgid "RT Total Critics Reviews"
+msgstr ""
+
+msgctxt "#32078"
+msgid "RT Fresh Reviews"
+msgstr ""
+
+msgctxt "#32079"
+msgid "RT Rotten Reviews"
+msgstr ""
+
+msgctxt "#32080"
+msgid "RT Critics' Consensus"
+msgstr ""
+
+msgctxt "#32081"
+msgid "RT Total User Reviews"
+msgstr ""
 
 #~ msgctxt "#31482"
 #~ msgid "Widget Limit"
