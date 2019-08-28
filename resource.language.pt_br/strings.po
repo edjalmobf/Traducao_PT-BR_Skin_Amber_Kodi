@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-21 11:52-0300\n"
+"PO-Revision-Date: 2019-08-28 17:17-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -1199,6 +1199,13 @@ msgctxt "#31525"
 msgid "Currently Airing TV Shows"
 msgstr "Seriados em Exibição"
 
+#, fuzzy
+#| msgctxt "#31489"
+#| msgid "Next Episodes"
+msgctxt "#31526"
+msgid "Next Up Episodes"
+msgstr "Próximos Episódios"
+
 msgctxt "#31901"
 msgid "36 Hour Forecast"
 msgstr "Previsão 36 Horas"
@@ -1529,8 +1536,11 @@ msgctxt "#32014"
 msgid "Search Results for: "
 msgstr "Resultados da buscar por: "
 
+#, fuzzy
+#| msgctxt "#32015"
+#| msgid "Enable ExtendedInfo"
 msgctxt "#32015"
-msgid "Enable ExtendedInfo"
+msgid "Enable TMDb Online Info"
 msgstr "Habilitar ExtendedInfo"
 
 msgctxt "#32016"
@@ -1539,13 +1549,15 @@ msgstr ""
 "Mais\n"
 "Informações"
 
+#, fuzzy
 msgctxt "#32017"
 msgid "Search in Local Library"
-msgstr "Buscar na Biblioteca Local"
+msgstr "Pesquisar no Kodi"
 
+#, fuzzy
 msgctxt "#32018"
-msgid "Show Extended Info"
-msgstr "Mostrar Mais Informações"
+msgid "Search online in TMDb"
+msgstr "Pesquisar online no TMDb"
 
 msgctxt "#32019"
 msgid "Make Startup Menu Option"
@@ -1571,20 +1583,32 @@ msgctxt "#32024"
 msgid "New Search"
 msgstr "Nova Busca"
 
+#, fuzzy
+#| msgctxt "#31429"
+#| msgid "Movie Sets"
 msgctxt "#32025"
-msgid "Movies with Actor Named"
-msgstr "Filmes com este ator"
+msgid "Movies Starring"
+msgstr "Coletânea de Filmes"
 
+#, fuzzy
+#| msgctxt "#32026"
+#| msgid "Movies with Director Named"
 msgctxt "#32026"
-msgid "Movies with Director Named"
+msgid "Movies Directed by"
 msgstr "Filmes com este diretor"
 
+#, fuzzy
+#| msgctxt "#32032"
+#| msgid "TV Shows from Studio"
 msgctxt "#32027"
-msgid "TV Shows with Actor Named"
-msgstr "Seriados com este Ator"
+msgid "TV Shows Starring"
+msgstr "Seriados deste estúdio"
 
+#, fuzzy
+#| msgctxt "#32028"
+#| msgid "TV Shows with Director Named"
 msgctxt "#32028"
-msgid "TV Shows with Director Named"
+msgid "TV Shows Directed by"
 msgstr "Seriados com este diretor"
 
 msgctxt "#32029"
@@ -1620,8 +1644,8 @@ msgid "Music Videos by Artist"
 msgstr "Videoclipes desse artista"
 
 msgctxt "#32037"
-msgid "YouTube"
-msgstr "YouTube"
+msgid "YouTube videos about"
+msgstr ""
 
 msgctxt "#32038"
 msgid "Enable Touch/Mouse Buttons"
@@ -1798,6 +1822,95 @@ msgstr ""
 msgctxt "#32081"
 msgid "RT Total User Reviews"
 msgstr ""
+
+#, fuzzy
+msgctxt "#32082"
+msgid "Birthday"
+msgstr "Nascimento"
+
+#, fuzzy
+msgctxt "#32083"
+msgid "Born"
+msgstr "Local de nascimento"
+
+#, fuzzy
+msgctxt "#32084"
+msgid "Age"
+msgstr "Idade"
+
+#, fuzzy
+msgctxt "#32085"
+msgid "Died"
+msgstr "Morte"
+
+#, fuzzy
+msgctxt "#32086"
+msgid "Also Known As"
+msgstr "Também conhecido(a) como"
+
+#, fuzzy
+msgctxt "#32087"
+msgid "Cast in Movies"
+msgstr "Atuação nos filmes"
+
+#, fuzzy
+msgctxt "#32088"
+msgid "Cast in TV Shows"
+msgstr "Atuação nos seriados"
+
+#, fuzzy
+msgctxt "#32089"
+msgid "Crew in Movies"
+msgstr "Produção nos filmes"
+
+#, fuzzy
+msgctxt "#32090"
+msgid "Crew in TV Shows"
+msgstr "Produção nos seriados"
+
+#, fuzzy
+msgctxt "#32091"
+msgid "Movies in TMDb"
+msgstr "Filmes no TMDb"
+
+#, fuzzy
+msgctxt "#32092"
+msgid "TV Shows in TMDb"
+msgstr "Seriados no TMDb"
+
+#, fuzzy
+msgctxt "#32093"
+msgid "Movies in Local DB"
+msgstr "Filmes no Kodi"
+
+#, fuzzy
+msgctxt "#32094"
+msgid "TV Shows in Local DB"
+msgstr "Seriados no Kodi"
+
+msgctxt "#32095"
+msgid "Reboot to Android"
+msgstr ""
+
+msgctxt "#32096"
+msgid "Episodes Starring"
+msgstr ""
+
+#~ msgctxt "#32018"
+#~ msgid "Show Extended Info"
+#~ msgstr "Mostrar Mais Informações"
+
+#~ msgctxt "#32025"
+#~ msgid "Movies with Actor Named"
+#~ msgstr "Filmes com este ator"
+
+#~ msgctxt "#32027"
+#~ msgid "TV Shows with Actor Named"
+#~ msgstr "Seriados com este Ator"
+
+#~ msgctxt "#32037"
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
 
 #~ msgctxt "#31482"
 #~ msgid "Widget Limit"
