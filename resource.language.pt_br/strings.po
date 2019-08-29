@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-28 17:17-0300\n"
+"PO-Revision-Date: 2019-08-29 18:13-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -18,10 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.2.3\n"
 
-# Translator: Edjalmo Bf https://forum.kodi.tv/member.php?action=profile&uid=429866
-# (não fiz a tradução completa, só modifiquei poucas coisas da
-# versão anterior e acrescentei as novas palavras da versão skinshortcuts.
-# Não sei quem fez a primeira tradução.)
 msgctxt "#31000"
 msgid "Picture Channels"
 msgstr "Canais de imagens"
@@ -1537,11 +1533,9 @@ msgid "Search Results for: "
 msgstr "Resultados da buscar por: "
 
 #, fuzzy
-#| msgctxt "#32015"
-#| msgid "Enable ExtendedInfo"
 msgctxt "#32015"
 msgid "Enable TMDb Online Info"
-msgstr "Habilitar ExtendedInfo"
+msgstr "Habilitar Informações Estendidas (online)"
 
 msgctxt "#32016"
 msgid "Extended Info"
@@ -1584,32 +1578,24 @@ msgid "New Search"
 msgstr "Nova Busca"
 
 #, fuzzy
-#| msgctxt "#31429"
-#| msgid "Movie Sets"
 msgctxt "#32025"
 msgid "Movies Starring"
-msgstr "Coletânea de Filmes"
+msgstr "Filmes com"
 
 #, fuzzy
-#| msgctxt "#32026"
-#| msgid "Movies with Director Named"
 msgctxt "#32026"
 msgid "Movies Directed by"
-msgstr "Filmes com este diretor"
+msgstr "Filmes Dirigidos Por"
 
 #, fuzzy
-#| msgctxt "#32032"
-#| msgid "TV Shows from Studio"
 msgctxt "#32027"
 msgid "TV Shows Starring"
-msgstr "Seriados deste estúdio"
+msgstr "Seriados com"
 
 #, fuzzy
-#| msgctxt "#32028"
-#| msgid "TV Shows with Director Named"
 msgctxt "#32028"
 msgid "TV Shows Directed by"
-msgstr "Seriados com este diretor"
+msgstr "Seriados dirigidos por"
 
 msgctxt "#32029"
 msgid "Movies with Genre"
@@ -1643,9 +1629,10 @@ msgctxt "#32036"
 msgid "Music Videos by Artist"
 msgstr "Videoclipes desse artista"
 
+#, fuzzy
 msgctxt "#32037"
 msgid "YouTube videos about"
-msgstr ""
+msgstr "Vídeos do YouTube sobre"
 
 msgctxt "#32038"
 msgid "Enable Touch/Mouse Buttons"
@@ -1892,9 +1879,10 @@ msgctxt "#32095"
 msgid "Reboot to Android"
 msgstr ""
 
+#, fuzzy
 msgctxt "#32096"
 msgid "Episodes Starring"
-msgstr ""
+msgstr "Episódios com"
 
 #~ msgctxt "#32018"
 #~ msgid "Show Extended Info"
