@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-08-29 18:13-0300\n"
+"PO-Revision-Date: 2019-09-04 22:25-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -1753,7 +1753,9 @@ msgstr "Selecionar Pasta do Backup"
 
 msgctxt "#32068"
 msgid "Show Fanart"
-msgstr "Mostrar Fanart"
+msgstr ""
+"Mostrar\n"
+"Fanart"
 
 msgctxt "#32069"
 msgid "Files"
@@ -1790,25 +1792,30 @@ msgctxt "#32076"
 msgid "Show Watched Items in Recent Shelves"
 msgstr "Mostrar Assistidos nos Widgets Recentes"
 
+#, fuzzy
 msgctxt "#32077"
 msgid "RT Total Critics Reviews"
-msgstr ""
+msgstr "RT total de críticas"
 
+#, fuzzy
 msgctxt "#32078"
 msgid "RT Fresh Reviews"
-msgstr ""
+msgstr "RT Fresh Reviews"
 
+#, fuzzy
 msgctxt "#32079"
 msgid "RT Rotten Reviews"
-msgstr ""
+msgstr "RT Rotten Reviews"
 
+#, fuzzy
 msgctxt "#32080"
 msgid "RT Critics' Consensus"
-msgstr ""
+msgstr "RT Consenso dos críticos"
 
+#, fuzzy
 msgctxt "#32081"
 msgid "RT Total User Reviews"
-msgstr ""
+msgstr "RT total de reviews dos usuários"
 
 #, fuzzy
 msgctxt "#32082"
@@ -1875,14 +1882,73 @@ msgctxt "#32094"
 msgid "TV Shows in Local DB"
 msgstr "Seriados no Kodi"
 
+#, fuzzy
 msgctxt "#32095"
 msgid "Reboot to Android"
-msgstr ""
+msgstr "Reiniciar para o Android"
 
 #, fuzzy
 msgctxt "#32096"
 msgid "Episodes Starring"
 msgstr "Episódios com"
+
+#, fuzzy
+msgctxt "#32097"
+msgid "Movies in the"
+msgstr "Da série"
+
+#, fuzzy
+msgctxt "#32098"
+msgid "Also Directed by"
+msgstr "Filmes Dirigidos Por"
+
+#, fuzzy
+msgctxt "#32099"
+msgid "Crew"
+msgstr "Equipe técnica"
+
+#, fuzzy
+msgctxt "#32100"
+msgid "More from"
+msgstr "Outros títulos de"
+
+#, fuzzy
+msgctxt "#32101"
+msgid "More in"
+msgstr "Mais em"
+
+#, fuzzy
+msgctxt "#32102"
+msgid "Similar to"
+msgstr "Semelhantes a"
+
+#, fuzzy
+msgctxt "#32103"
+msgid "Cast Members also appear in"
+msgstr "Este elenco aparece também em"
+
+#, fuzzy
+#| msgctxt "#32058"
+#| msgid "Show Episode Thumb in Video Info"
+msgctxt "#32104"
+msgid "Select Custom Lists to Show in Video Info"
+msgstr ""
+"Mostrar Miniatura do Episódio ao invés do pôster nas Informações do Vídeo"
+
+#, fuzzy
+msgctxt "#32105"
+msgid "Similar"
+msgstr "Títulos semelhantes"
+
+#, fuzzy
+msgctxt "#32106"
+msgid "Featuring Cast Members"
+msgstr "Com membros do elenco"
+
+#, fuzzy
+msgctxt "#32107"
+msgid "Video Info"
+msgstr "Vídeo Info"
 
 #~ msgctxt "#32018"
 #~ msgid "Show Extended Info"
