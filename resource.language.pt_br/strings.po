@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-09-05 09:04-0300\n"
+"PO-Revision-Date: 2019-09-05 11:04-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -1598,33 +1598,37 @@ msgctxt "#32028"
 msgid "TV Shows Directed by"
 msgstr "Seriados dirigidos por"
 
+#, fuzzy
 msgctxt "#32029"
 msgid "Movies with Genre"
-msgstr "Filmes desse gênero"
+msgstr "Filmes do gênero"
 
+#, fuzzy
 msgctxt "#32030"
 msgid "TV Shows with Genre"
-msgstr "Seriados desse gênero"
+msgstr "Seriados do gênero"
 
+#, fuzzy
 msgctxt "#32031"
 msgid "Movies from Studio"
-msgstr "Filmes deste estúdio"
+msgstr "Filmes do estúdio"
 
 msgctxt "#32032"
 msgid "TV Shows from Studio"
-msgstr "Seriados deste estúdio"
+msgstr "Seriados do estúdio"
 
+#, fuzzy
 msgctxt "#32033"
 msgid "Movies from Year"
-msgstr "Filmes deste ano"
+msgstr "Filmes do ano"
 
 msgctxt "#32034"
 msgid "TV Shows from Year"
-msgstr "Seriados desse ano"
+msgstr "Seriados do ano"
 
 msgctxt "#32035"
 msgid "Movies from Country"
-msgstr "Filmes desse país"
+msgstr "Filmes do país"
 
 msgctxt "#32036"
 msgid "Music Videos by Artist"
@@ -1753,11 +1757,10 @@ msgctxt "#32067"
 msgid "Select Backup Folder"
 msgstr "Selecionar Pasta do Backup"
 
+#, fuzzy
 msgctxt "#32068"
 msgid "Show Fanart"
-msgstr ""
-"Mostrar\n"
-"Fanart"
+msgstr "Ver Fanart"
 
 msgctxt "#32069"
 msgid "Files"
@@ -1930,12 +1933,9 @@ msgid "Cast Members also appear in"
 msgstr "Membros deste elenco também aparecem em"
 
 #, fuzzy
-#| msgctxt "#32058"
-#| msgid "Show Episode Thumb in Video Info"
 msgctxt "#32104"
 msgid "Select Custom Lists to Show in Video Info"
-msgstr ""
-"Mostrar Miniatura do Episódio ao invés do pôster nas Informações do Vídeo"
+msgstr "Selecionar as listas personalizadas"
 
 #, fuzzy
 msgctxt "#32105"
