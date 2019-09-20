@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-09-05 11:04-0300\n"
+"PO-Revision-Date: 2019-09-20 10:43-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -186,7 +186,6 @@ msgctxt "#31041"
 msgid "Repository"
 msgstr "Repositório"
 
-# empty strings from id 31042 to 31045
 msgctxt "#31046"
 msgid "Show Double Row Shelf"
 msgstr "Aumentar Tamanho (Mostrar em Duas Linhas)"
@@ -383,7 +382,6 @@ msgctxt "#31110"
 msgid "Edit Background for Media Type"
 msgstr "Editar fundo para Tipo de Mídia"
 
-# empty strings from id 31111 to 31112
 msgctxt "#31113"
 msgid "Single"
 msgstr "Único"
@@ -454,7 +452,6 @@ msgctxt "#31141"
 msgid "Play speed"
 msgstr "Velocidade da reprodução"
 
-# empty strings from id 31142 to 31149
 msgctxt "#31150"
 msgid "Disable List view"
 msgstr "Desativar Visualização de Lista"
@@ -571,8 +568,6 @@ msgctxt "#31363"
 msgid "Static Vertical Menu"
 msgstr "Menu Vertical Estático"
 
-# empty strings from id 31364 to 31389
-# Skin Fontsets
 msgctxt "#31390"
 msgid "(1/5) Skin default"
 msgstr "(1/5) Padrão da skin"
@@ -593,7 +588,6 @@ msgctxt "#31394"
 msgid "(5/5) Trial"
 msgstr "(5/5) Trial"
 
-# Skin Shortcust related
 msgctxt "#31395"
 msgid "Delete/Disable Settings Menu Item?"
 msgstr "Apagar/Desativar o Item do Menu de Configurações?"
@@ -1146,7 +1140,6 @@ msgctxt "#31511"
 msgid "Reminder Set"
 msgstr "Temporizador Programado"
 
-# empty strings from id 31511 to 31513
 msgctxt "#31514"
 msgid "Episodes use poster"
 msgstr "Usar pôster no episódio"
@@ -1195,9 +1188,6 @@ msgctxt "#31525"
 msgid "Currently Airing TV Shows"
 msgstr "Seriados em Exibição"
 
-#, fuzzy
-#| msgctxt "#31489"
-#| msgid "Next Episodes"
 msgctxt "#31526"
 msgid "Next Up Episodes"
 msgstr "Próximos Episódios"
@@ -1222,7 +1212,6 @@ msgctxt "#31920"
 msgid "Disable all Home shelves"
 msgstr "Desativar Todos os Widgets"
 
-# empty strings from id 31932 to 31935
 msgctxt "#31936"
 msgid "Enable Skin Shortcuts"
 msgstr "Habilitar Skin Shortcuts"
@@ -1263,7 +1252,6 @@ msgctxt "#31945"
 msgid "Movie Country icons"
 msgstr "Ícones dos Países dos Filmes"
 
-# empty strings from id 31945 to 31948
 msgctxt "#31949"
 msgid "Show ExtraFanart if available"
 msgstr "Mostrar Fanart Extra se disponível"
@@ -1443,7 +1431,6 @@ msgctxt "#31989"
 msgid "Quit button function"
 msgstr "Função do botão encerrar"
 
-# empty string with id 31990
 msgctxt "#31991"
 msgid "Show video player/music visualization in background"
 msgstr "Mostrar vídeos/músicas reproduzindo em segundo plano"
@@ -1460,7 +1447,6 @@ msgctxt "#31994"
 msgid "Use vertical main menu"
 msgstr "Usar menu inicial na vertical"
 
-#, fuzzy
 msgctxt "#31995"
 msgid "Home layout"
 msgstr "Página Inicial"
@@ -1533,7 +1519,6 @@ msgctxt "#32014"
 msgid "Search Results for: "
 msgstr "Resultados da buscar por: "
 
-#, fuzzy
 msgctxt "#32015"
 msgid "Enable TMDb Online Info"
 msgstr "Habilitar Informações Estendidas (online)"
@@ -1544,12 +1529,10 @@ msgstr ""
 "Mais\n"
 "Informações"
 
-#, fuzzy
 msgctxt "#32017"
 msgid "Search in Local Library"
 msgstr "Pesquisar no Kodi"
 
-#, fuzzy
 msgctxt "#32018"
 msgid "Search online in TMDb"
 msgstr "Pesquisar online no TMDb"
@@ -1578,53 +1561,45 @@ msgctxt "#32024"
 msgid "New Search"
 msgstr "Nova Busca"
 
-#, fuzzy
 msgctxt "#32025"
 msgid "Movies Starring"
 msgstr "Filmes com"
 
-#, fuzzy
 msgctxt "#32026"
 msgid "Movies Directed by"
 msgstr "Filmes Dirigidos Por"
 
-#, fuzzy
 msgctxt "#32027"
 msgid "TV Shows Starring"
 msgstr "Seriados com"
 
-#, fuzzy
 msgctxt "#32028"
 msgid "TV Shows Directed by"
 msgstr "Seriados dirigidos por"
 
-#, fuzzy
 msgctxt "#32029"
 msgid "Movies with Genre"
 msgstr "Filmes do gênero"
 
-#, fuzzy
 msgctxt "#32030"
 msgid "TV Shows with Genre"
-msgstr "Seriados do gênero"
+msgstr "Seriados do Gênero"
 
-#, fuzzy
 msgctxt "#32031"
 msgid "Movies from Studio"
 msgstr "Filmes do estúdio"
 
 msgctxt "#32032"
 msgid "TV Shows from Studio"
-msgstr "Seriados do estúdio"
+msgstr "Seriados do Estúdio"
 
-#, fuzzy
 msgctxt "#32033"
 msgid "Movies from Year"
-msgstr "Filmes do ano"
+msgstr "Filmes do Ano"
 
 msgctxt "#32034"
 msgid "TV Shows from Year"
-msgstr "Seriados do ano"
+msgstr "Seriados do Ano"
 
 msgctxt "#32035"
 msgid "Movies from Country"
@@ -1634,7 +1609,6 @@ msgctxt "#32036"
 msgid "Music Videos by Artist"
 msgstr "Videoclipes desse artista"
 
-#, fuzzy
 msgctxt "#32037"
 msgid "YouTube videos about"
 msgstr "Vídeos do YouTube sobre"
@@ -1740,7 +1714,6 @@ msgctxt "#32063"
 msgid "Select Favourite Addons"
 msgstr "Selecionar Add-ons Favoritos"
 
-#, fuzzy
 msgctxt "#32064"
 msgid "Backup/Restore"
 msgstr "Backup/Restaurar"
@@ -1757,7 +1730,6 @@ msgctxt "#32067"
 msgid "Select Backup Folder"
 msgstr "Selecionar Pasta do Backup"
 
-#, fuzzy
 msgctxt "#32068"
 msgid "Show Fanart"
 msgstr "Ver Fanart"
@@ -1778,12 +1750,10 @@ msgctxt "#32072"
 msgid "Enable Autocompletion for Virtual Keyboard"
 msgstr "Habilitar Sugestões no Teclado Virtual"
 
-#, fuzzy
 msgctxt "#32073"
 msgid "Budget"
 msgstr "Orçamento"
 
-#, fuzzy
 msgctxt "#32074"
 msgid "Revenue"
 msgstr "Receita"
@@ -1792,239 +1762,162 @@ msgctxt "#32075"
 msgid "Awards"
 msgstr "Prêmios"
 
-#, fuzzy
 msgctxt "#32076"
 msgid "Show Watched Items in Recent Shelves"
 msgstr "Mostrar Assistidos nos Widgets Recentes"
 
-#, fuzzy
 msgctxt "#32077"
 msgid "RT Total Critics Reviews"
 msgstr "RT total de críticas"
 
-#, fuzzy
 msgctxt "#32078"
 msgid "RT Fresh Reviews"
 msgstr "RT Fresh Reviews"
 
-#, fuzzy
 msgctxt "#32079"
 msgid "RT Rotten Reviews"
 msgstr "RT Rotten Reviews"
 
-#, fuzzy
 msgctxt "#32080"
 msgid "RT Critics' Consensus"
 msgstr "RT Consenso dos críticos"
 
-#, fuzzy
 msgctxt "#32081"
 msgid "RT Total User Reviews"
 msgstr "RT total de reviews dos usuários"
 
-#, fuzzy
 msgctxt "#32082"
 msgid "Birthday"
 msgstr "Nascimento"
 
-#, fuzzy
 msgctxt "#32083"
 msgid "Born"
 msgstr "Local de nascimento"
 
-#, fuzzy
 msgctxt "#32084"
 msgid "Age"
 msgstr "Idade"
 
-#, fuzzy
 msgctxt "#32085"
 msgid "Died"
 msgstr "Morte"
 
-#, fuzzy
 msgctxt "#32086"
 msgid "Also Known As"
 msgstr "Também conhecido(a) como"
 
-#, fuzzy
 msgctxt "#32087"
 msgid "Cast in Movies"
 msgstr "Atuação nos filmes"
 
-#, fuzzy
 msgctxt "#32088"
 msgid "Cast in TV Shows"
 msgstr "Atuação nos seriados"
 
-#, fuzzy
 msgctxt "#32089"
 msgid "Crew in Movies"
 msgstr "Produção nos filmes"
 
-#, fuzzy
 msgctxt "#32090"
 msgid "Crew in TV Shows"
 msgstr "Produção nos seriados"
 
-#, fuzzy
 msgctxt "#32091"
 msgid "Movies in TMDb"
 msgstr "Filmes no TMDb"
 
-#, fuzzy
 msgctxt "#32092"
 msgid "TV Shows in TMDb"
 msgstr "Seriados no TMDb"
 
-#, fuzzy
 msgctxt "#32093"
 msgid "Movies in Local DB"
 msgstr "Filmes no Kodi"
 
-#, fuzzy
 msgctxt "#32094"
 msgid "TV Shows in Local DB"
 msgstr "Seriados no Kodi"
 
-#, fuzzy
 msgctxt "#32095"
 msgid "Reboot to Android"
 msgstr "Reiniciar para o Android"
 
-#, fuzzy
 msgctxt "#32096"
 msgid "Episodes Starring"
 msgstr "Episódios com"
 
-#, fuzzy
 msgctxt "#32097"
 msgid "Movies in the"
 msgstr "Da série"
 
-#, fuzzy
 msgctxt "#32098"
 msgid "Also Directed by"
 msgstr "Filmes Dirigidos Por"
 
-#, fuzzy
 msgctxt "#32099"
 msgid "Crew"
 msgstr "Equipe técnica"
 
-#, fuzzy
 msgctxt "#32100"
 msgid "More from"
 msgstr "Outros títulos de"
 
-#, fuzzy
 msgctxt "#32101"
 msgid "More in"
 msgstr "Mais em"
 
-#, fuzzy
 msgctxt "#32102"
 msgid "Similar to"
 msgstr "Semelhantes a"
 
-#, fuzzy
 msgctxt "#32103"
 msgid "Cast Members also appear in"
 msgstr "Membros deste elenco também aparecem em"
 
-#, fuzzy
 msgctxt "#32104"
 msgid "Select Custom Lists to Show in Video Info"
 msgstr "Selecionar as listas personalizadas"
 
-#, fuzzy
 msgctxt "#32105"
 msgid "Similar"
 msgstr "Títulos semelhantes"
 
-#, fuzzy
 msgctxt "#32106"
 msgid "Featuring Cast Members"
 msgstr "Com membros do elenco"
 
-#, fuzzy
 msgctxt "#32107"
 msgid "Video Info"
 msgstr "Inform. de Vídeo"
 
-#~ msgctxt "#32018"
-#~ msgid "Show Extended Info"
-#~ msgstr "Mostrar Mais Informações"
+msgctxt "#32108"
+msgid "Select a Genre"
+msgstr "Selecione um Gênero"
 
-#~ msgctxt "#32025"
-#~ msgid "Movies with Actor Named"
-#~ msgstr "Filmes com este ator"
+msgctxt "#32109"
+msgid "Select a Studio"
+msgstr "Selecione um Estúdio"
 
-#~ msgctxt "#32027"
-#~ msgid "TV Shows with Actor Named"
-#~ msgstr "Seriados com este Ator"
+msgctxt "#32110"
+msgid "Select a Director"
+msgstr "Selecione um Diretor"
 
-#~ msgctxt "#32037"
-#~ msgid "YouTube"
-#~ msgstr "YouTube"
+msgctxt "#32111"
+msgid "Online TMDb Search"
+msgstr "Busca Online no TMDb"
 
-#~ msgctxt "#31482"
-#~ msgid "Widget Limit"
-#~ msgstr "Quantidade de Itens no Widget"
+msgctxt "#32112"
+msgid "Local Search"
+msgstr "Busca no Kodi"
 
-#~ msgctxt "#31921"
-#~ msgid "Hide Movies shelf"
-#~ msgstr "Ocultar Widgets dos Filmes"
+msgctxt "#32113"
+msgid "Select a Writer"
+msgstr "Selecione um Roteirista"
 
-#~ msgctxt "#31922"
-#~ msgid "Hide TV Show shelf"
-#~ msgstr "Ocultar Widgets dos Seriados"
+msgctxt "#32114"
+msgid "Movies Written by"
+msgstr "Filmes Escritos por"
 
-#~ msgctxt "#31923"
-#~ msgid "Hide Music Shelf"
-#~ msgstr "Ocultar Widgets das Músicas"
-
-#~ msgctxt "#31924"
-#~ msgid "Hide Music Videos Shelf"
-#~ msgstr "Ocultar Widgets de Videoclipes"
-
-#~ msgctxt "#31925"
-#~ msgid "Hide Addons Shelf"
-#~ msgstr "Ocultar Widgets dos Add-ons"
-
-#~ msgctxt "#31926"
-#~ msgid "Hide Favourites Shelf"
-#~ msgstr "Ocultar Widgets dos Favoritos"
-
-#~ msgctxt "#31927"
-#~ msgid "Hide Weather Info Shelf"
-#~ msgstr "Ocultar Widgets da Previsão do Tempo"
-
-#~ msgctxt "#31928"
-#~ msgid "Hide Videos Shelf"
-#~ msgstr "Ocultar Widgets dos Vídeos"
-
-#~ msgctxt "#31929"
-#~ msgid "Hide TV Shelf"
-#~ msgstr "Ocultar Widgets da TV"
-
-#~ msgctxt "#31930"
-#~ msgid "Hide Radio Shelf"
-#~ msgstr "Ocultar Widgets do Rádio"
-
-#~ msgctxt "#31931"
-#~ msgid "Hide Pictures Shelf"
-#~ msgstr "Ocultar Widgets das Imagens"
-
-#~ msgctxt "#32001"
-#~ msgid "Hide Games Shelf"
-#~ msgstr "Ocultar Widgets dos Jogos"
-
-#, fuzzy
-#~ msgctxt "#32012"
-#~ msgid "Hide Next Airing Episodes"
-#~ msgstr "Ocultar Próximos Episódios em Exibição"
-
-#~ msgctxt "#32041"
-#~ msgid "Hide Next Episodes"
-#~ msgstr "Ocultar Próximos Episódios"
+msgctxt "#32115"
+msgid "Select a Country"
+msgstr "Selecione um país"
