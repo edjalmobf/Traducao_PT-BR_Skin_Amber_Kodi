@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-09-20 10:43-0300\n"
+"PO-Revision-Date: 2019-09-30 14:12-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -565,8 +565,8 @@ msgid "Enabled"
 msgstr "Ativado"
 
 msgctxt "#31363"
-msgid "Static Vertical Menu"
-msgstr "Menu Vertical Estático"
+msgid "Static"
+msgstr "Estático"
 
 msgctxt "#31390"
 msgid "(1/5) Skin default"
@@ -1484,12 +1484,12 @@ msgid "Toggle Subtitle"
 msgstr "Alternar Legendas"
 
 msgctxt "#32005"
-msgid "Artwork"
-msgstr "Artwork"
+msgid "AB: Select Artwork"
+msgstr "AB: Selecionar Artworks"
 
 msgctxt "#32006"
-msgid "All Artwork"
-msgstr "Todas as Artwork"
+msgid "AB: All Artwork"
+msgstr "AB: Todas as Artwork"
 
 msgctxt "#32007"
 msgid "Special Features"
@@ -1536,10 +1536,6 @@ msgstr "Pesquisar no Kodi"
 msgctxt "#32018"
 msgid "Search online in TMDb"
 msgstr "Pesquisar online no TMDb"
-
-msgctxt "#32019"
-msgid "Make Startup Menu Option"
-msgstr "Fazer Menu de Inicialização ser Opcional"
 
 msgctxt "#32020"
 msgid "Hide Second Label in List Views"
@@ -1674,12 +1670,12 @@ msgid "Show Two Shelves Together"
 msgstr "Mostrar 2 Widgets Ao Mesmo Tempo (limitado a 2)"
 
 msgctxt "#32054"
-msgid "Use Larger Font for Vertical Menu"
-msgstr "Usar Fonte Grande no Menu Vertical"
+msgid "Use Larger Font"
+msgstr "Usar Fonte Grande"
 
 msgctxt "#32055"
-msgid "Use Wraparaound Navigation for Vertical Menu"
-msgstr "Usar Rolagem Infinita no Menu Vertical"
+msgid "Use Wraparaound Navigation"
+msgstr "Usar Rolagem Infinita"
 
 msgctxt "#32056"
 msgid "Show more items on List Views"
@@ -1921,3 +1917,109 @@ msgstr "Filmes Escritos por"
 msgctxt "#32115"
 msgid "Select a Country"
 msgstr "Selecione um país"
+
+msgctxt "#32116"
+msgid "Episodes from Studio"
+msgstr "Episódios do Estúdio"
+
+msgctxt "#32117"
+msgid "Episodes with Genre"
+msgstr "Episódios do Gênero"
+
+msgctxt "#32118"
+msgid "Episodes Written by"
+msgstr "Episódios Escritos por"
+
+msgctxt "#32119"
+msgid "Episodes Directed by"
+msgstr "Episódios Dirigidos por"
+
+msgctxt "#32120"
+msgid "AB: Download All Artwork"
+msgstr "AB: Baixar Todas Artworks"
+
+msgctxt "#32121"
+msgid "AB: Select Artwork"
+msgstr "AB: Selecionar Artworks"
+
+msgctxt "#32122"
+msgid "Show Artwork Beef items in Context Menu"
+msgstr "Mostrar Itens do Artwork Beef no Menu de Contexto"
+
+msgctxt "#32123"
+msgid "Title Bar Options"
+msgstr "Barra Superior"
+
+msgctxt "#32124"
+msgid "Show Duration in Hours and Minutes"
+msgstr "Mostrar Duração em Horas e Minutos"
+
+msgctxt "#32125"
+msgid "Hour"
+msgstr "Hora(s)"
+
+msgctxt "#32126"
+msgid "Minute"
+msgstr "Minuto(s)"
+
+msgctxt "#32127"
+msgid "Online TMDb Info"
+msgstr ""
+"Pesquisar no\n"
+"TMDb"
+
+msgctxt "#32128"
+msgid "Embuary Info Settings"
+msgstr "Configurações Embuary info"
+
+msgctxt "#32129"
+msgid "Guest Stars"
+msgstr "Participações especiais "
+
+msgctxt "#32130"
+msgid "Posters"
+msgstr "Pôsteres"
+
+msgctxt "#32131"
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt "#32132"
+msgid "Search for Trailer"
+msgstr "Procurar Trailer"
+
+msgctxt "#32133"
+msgid "item in database"
+msgstr "Item no Kodi"
+
+msgctxt "#32134"
+msgid "Items in Database"
+msgstr "Itens no Kodi"
+
+msgctxt "#32135"
+msgid "Extras"
+msgstr "Extras"
+
+msgctxt "#32136"
+msgid "Known for"
+msgstr "Conhecido por"
+
+msgctxt "#32137"
+msgid "Retail Release"
+msgstr "Lançamento Comercial"
+
+msgctxt "#32138"
+msgid "Region Release"
+msgstr "Lançamento regional"
+
+#~ msgctxt "#31363"
+#~ msgid "Static Vertical Menu"
+#~ msgstr "Menu Vertical Estático"
+
+#~ msgctxt "#32005"
+#~ msgid "Artwork"
+#~ msgstr "Artwork"
+
+#~ msgctxt "#32019"
+#~ msgid "Make Startup Menu Option"
+#~ msgstr "Fazer Menu de Inicialização ser Opcional"
