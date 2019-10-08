@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2019-09-30 14:12-0300\n"
+"PO-Revision-Date: 2019-10-08 11:41-0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/kodi-"
 "skins/language/pt_BR/)\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgctxt "#31000"
 msgid "Picture Channels"
@@ -1485,11 +1485,11 @@ msgstr "Alternar Legendas"
 
 msgctxt "#32005"
 msgid "AB: Select Artwork"
-msgstr "AB: Selecionar Artworks"
+msgstr "AB: Artworks Manual"
 
 msgctxt "#32006"
 msgid "AB: All Artwork"
-msgstr "AB: Todas as Artwork"
+msgstr "AB: Artworks Auto"
 
 msgctxt "#32007"
 msgid "Special Features"
@@ -1520,8 +1520,8 @@ msgid "Search Results for: "
 msgstr "Resultados da buscar por: "
 
 msgctxt "#32015"
-msgid "Enable TMDb Online Info"
-msgstr "Habilitar Informações Estendidas (online)"
+msgid "Show Only Local Info "
+msgstr "Mostrar Apenas Informações Locais "
 
 msgctxt "#32016"
 msgid "Extended Info"
@@ -1682,11 +1682,11 @@ msgid "Show more items on List Views"
 msgstr "Mostrar Mais Itens na Visualização de Lista"
 
 msgctxt "#32057"
-msgid "Show Season/Episode Numbers in Video Info"
+msgid "Show Season/Episode Numbers"
 msgstr "Mostrar Número da Temporada/Episódio (SxxExx) nas Informações do Vídeo"
 
 msgctxt "#32058"
-msgid "Show Episode Thumb in Video Info"
+msgid "Show Episode Thumb"
 msgstr ""
 "Mostrar Miniatura do Episódio ao invés do pôster nas Informações do Vídeo"
 
@@ -1871,7 +1871,7 @@ msgid "Cast Members also appear in"
 msgstr "Membros deste elenco também aparecem em"
 
 msgctxt "#32104"
-msgid "Select Custom Lists to Show in Video Info"
+msgid "Select Custom Lists to Display"
 msgstr "Selecionar as listas personalizadas"
 
 msgctxt "#32105"
@@ -1956,11 +1956,11 @@ msgstr "Mostrar Duração em Horas e Minutos"
 
 msgctxt "#32125"
 msgid "Hour"
-msgstr "Hora(s)"
+msgstr "Hora"
 
 msgctxt "#32126"
 msgid "Minute"
-msgstr "Minuto(s)"
+msgstr "Minuto"
 
 msgctxt "#32127"
 msgid "Online TMDb Info"
@@ -1974,7 +1974,7 @@ msgstr "Configurações Embuary info"
 
 msgctxt "#32129"
 msgid "Guest Stars"
-msgstr "Participações especiais "
+msgstr "Participações especiais"
 
 msgctxt "#32130"
 msgid "Posters"
@@ -1990,7 +1990,7 @@ msgstr "Procurar Trailer"
 
 msgctxt "#32133"
 msgid "item in database"
-msgstr "Item no Kodi"
+msgstr "item no Kodi"
 
 msgctxt "#32134"
 msgid "Items in Database"
@@ -2002,7 +2002,7 @@ msgstr "Extras"
 
 msgctxt "#32136"
 msgid "Known for"
-msgstr "Conhecido por"
+msgstr "Conhecido(a) por"
 
 msgctxt "#32137"
 msgid "Retail Release"
@@ -2011,6 +2011,123 @@ msgstr "Lançamento Comercial"
 msgctxt "#32138"
 msgid "Region Release"
 msgstr "Lançamento regional"
+
+msgctxt "#32139"
+msgid "Ended"
+msgstr "Terminada"
+
+msgctxt "#32140"
+msgid "Rumored"
+msgstr "Rumores"
+
+msgctxt "#32141"
+msgid "Planned"
+msgstr "Planejada"
+
+msgctxt "#32142"
+msgid "In Production"
+msgstr "Em Produção"
+
+msgctxt "#32143"
+msgid "Post Production"
+msgstr "Pós-produção"
+
+msgctxt "#32144"
+msgid "Released"
+msgstr "Lançado"
+
+msgctxt "#32145"
+msgid "Canceled"
+msgstr "Cancelado"
+
+msgctxt "#32146"
+msgid "Returning Series"
+msgstr "Renovada"
+
+msgctxt "#32147"
+msgid "Acting"
+msgstr "Atuação"
+
+msgctxt "#32148"
+msgid "Directing"
+msgstr "Direção"
+
+msgctxt "#32149"
+msgid "Writing"
+msgstr "Roteiro"
+
+msgctxt "#32150"
+msgid "Production"
+msgstr "Produção"
+
+msgctxt "#32151"
+msgid "Sound"
+msgstr "Compositor(a)"
+
+msgctxt "#32152"
+msgid "Creator"
+msgstr "Criador(a)"
+
+msgctxt "#32153"
+msgid "Died at Age"
+msgstr "Morreu com a idade"
+
+msgctxt "#32154"
+msgid "Collection"
+msgstr "Coletânea"
+
+msgctxt "#32155"
+msgid "TMDb Helper Settings"
+msgstr "Configurações TMDb Helper"
+
+msgctxt "#32156"
+msgid "Blur Background"
+msgstr "Desfocar Imagem de Fundo"
+
+msgctxt "#32157"
+msgid "Blur settings"
+msgstr "Configurações de Desfoque"
+
+msgctxt "#32158"
+msgid "Effect"
+msgstr "Efeito"
+
+msgctxt "#32159"
+msgid "Blur Size"
+msgstr "Tamanho do Desfoque"
+
+msgctxt "#32160"
+msgid "Pixel Size"
+msgstr "Tamanho do Pixel"
+
+msgctxt "#32161"
+msgid "Bits"
+msgstr "Bits"
+
+msgctxt "#32162"
+msgid "Preview Image"
+msgstr "Pré-visualização da Imagem"
+
+msgctxt "#32163"
+msgid "Important"
+msgstr "Importante"
+
+msgctxt "#32164"
+msgid ""
+"Quality changes resolution of the generated image$COMMA which may also alter "
+"the intensity of the effect. Better quality images take longer to process."
+"[CR]Blend layers the effect over the original image$COMMA with 100% showing "
+"the effect and 0% showing the original."
+msgstr ""
+"A qualidade altera a resolução da imagem gerada,\n"
+"o que também pode alterar a intensidade do efeito. Imagens com qualidade "
+"melhor leva mais tempo para processar.\n"
+"Combinar camadas do efeito com a imagem original faz que 100% mostra o "
+"efeito e 0% o original."
+
+#~ msgctxt "#32015"
+#~ msgid "Enable TMDb Online Info"
+#~ msgstr "Habilitar Informações Estendidas (online)"
 
 #~ msgctxt "#31363"
 #~ msgid "Static Vertical Menu"
